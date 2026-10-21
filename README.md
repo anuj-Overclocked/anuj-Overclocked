@@ -2,13 +2,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Anuj!;Welcome+to+my+profile." alt="Typing SVG" />
 </div>
 
+<br/>
+
+<table border="0" style="border-collapse: collapse;">
+<tr>
+<td width="40%" valign="top" align="center">
+
+<img src="./logo.png" alt="Anuj Logo" width="250" />
+
+</td>
+<td width="60%" valign="top">
+
 ```text
 anuj-Overclocked@github
 -------------------------
 OS: Windows 11, Linux, Android
 Uptime: 20 years
-Host: [Your College/University or City]
-Kernel: Developer Student
+Host: Developer Student
+Kernel: Software Engineer
 IDE: VS Code, IntelliJ, Android Studio
 
 Languages.Programming: Java, Python, JavaScript, Dart, PHP, CSS, HTML
